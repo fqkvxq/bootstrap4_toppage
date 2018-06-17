@@ -12,8 +12,8 @@
     <title>期間工のミカタ</title>
 </head>
 
-<body class="bg-light">
-    <nav class="navbar navbar-expand-xl navbar-light bg-white">
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-white">
         <img class="navbar-brand img-fluid" src="https://kikankou.co/wp-content/uploads/2018/06/toplogo.jpeg" width="250" alt="">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -125,9 +125,9 @@
         <div class="row">
             <div class="col-12">
                 <h2 class="h4 text-center">
-                    選べる３タイプの求人
+                    選べる３タイプの求人<br>
+                    <span class="h6">Select 3 types of recruitment</span>
                 </h2>
-                <p>Select 3 types of recruitment</p>
             </div>
             <div class="col-md-4">
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/search01.jpg" class="img-fluid rounded-circle" alt="">
@@ -149,8 +149,9 @@
 
         <div class="row">
             <div class="col-12">
-                <h2 class="text-center h4">応募から採用までの流れ</h2>
-                <p class="text-center">How to apply for each job</p>
+                <h2 class="text-center h4">応募から採用までの流れ<br>
+                    <span class="h6">How to apply for each job</span>
+                </h2>
             </div>
             <div class="col-md-4">
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/official-nagare.png" class="img-fluid mx-auto d-block" alt="">
@@ -170,14 +171,15 @@
         </div>
         <div class="row">
             <div class="col-12">
-                <h2 class="text-center h4">期間工を募集するメーカーの一覧</h2>
-                <p class="text-center">Gallery of compary which recruit job seeker</p>
+                <h2 class="text-center h5">期間工を募集するメーカーの一覧<br>
+                    <span class="h6">Gallery of compary which recruit job seeker</span>
+                </h2>
             </div>
             <div class="col-6 col-sm-6 col-md-4 col-lg-3">
                 <h3 class="text-center h4">スバル期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/subaru.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -190,7 +192,7 @@
                 <h3 class="text-center h4">ホンダ期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/honda.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -203,7 +205,7 @@
                 <h3 class="text-center h4">いすゞ期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/isuzu.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -216,7 +218,7 @@
                 <h3 class="text-center h4">ダイハツ期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/daihatsu.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -229,7 +231,7 @@
                 <h3 class="text-center h4">マツダ期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/mazda.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -242,7 +244,7 @@
                 <h3 class="text-center h4">アイシン精機期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/aishin.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -255,7 +257,7 @@
                 <h3 class="text-center h4">ホンダ熊本期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/hondakumamoto.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -268,7 +270,7 @@
                 <h3 class="text-center h4">コマツ期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/komatsu.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -281,7 +283,7 @@
                 <h3 class="text-center h4">NTN期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/ntn.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -294,7 +296,7 @@
                 <h3 class="text-center h4">岐阜車体期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/gifusyatai.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -307,7 +309,7 @@
                 <h3 class="text-center h4">コベルコ期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/kobelco.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -320,7 +322,7 @@
                 <h3 class="text-center h4">日立建機期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/hitachikenki.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -333,7 +335,7 @@
                 <h3 class="text-center h4">トヨタ期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/toyota.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -346,7 +348,7 @@
                 <h3 class="text-center h4">日産期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/nissan.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -359,7 +361,7 @@
                 <h3 class="text-center h4">日野期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/hino.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -372,7 +374,7 @@
                 <h3 class="text-center h4">デンソー期間工</h3>
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/denso.png" class="img-fluid mx-auto d-block">
                 <div class="row">
-                    <div class="col text-center">
+                    <div class="col text-center three-buttons">
                         <button type="button" class="btn btn-block btn-danger">公式</button>
                         <button type="button" class="btn btn-block btn-primary">人材紹介</button>
                         <button type="button" class="btn btn-block btn-warning">派遣</button>
@@ -385,8 +387,9 @@
         <!-- /row -->
         <div class="row">
             <div class="col-12">
-                <h2 class="text-center h4">期間工のブログ情報</h2>
-                <p class="text-center">Information of kikankou</p>
+                <h2 class="text-center h4">期間工のブログ情報<br>
+                <span class="h6">Information of kikankou</span>
+                </h2>
             </div>
             <div class="col-6 col-sm-6 col-md-4">
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/toyota-blog.png" class="img-fluid mx-auto d-block">
@@ -443,8 +446,9 @@
                 <img src="https://kikankou.co/wp-content/uploads/2018/06/0f821d73ddd3e24fd837307fb98d6153.png" class="img-fluid mx-auto d-block">
             </div>
             <div class="col-md-6">
-                <h2 class="h4">期間工のミカタとは？</h2>
-                <h3 class="h4">What is Kikankounomikata?</h3>
+                <h2 class="h4 text-center">期間工のミカタとは？<br>
+                <span class="h6">What is Kikankounomikata?</span>
+                </h2>
                 <p>期間工のミカタはもともとブログとして期間工の方々に役立つ情報発信サイトとしてスターとしました。
                     <p></p>しかし、期間工の方々の生活や今後のキャリアを少しでも手助けしたい。救いたいという想いより、期間工のミカタをバージョンアップさせ、求人サイトとしてリニューアルいたしました。
                     <p></p>ブログ創業より訴えていた、期間工の方々を支援するために、本質的な問いから始め、期間工とは？求人とは？雇用とは？という問いから考え、現在では特徴として選べる3タイプの求人を取り揃えるサイトとして活動しています。 </p>
@@ -453,31 +457,38 @@
         <!-- /row -->
         <div class="row">
             <div class="col-12">
-                <h2 class="text-center h4">期間工のミカタ3つの特徴</h2>
-                <p class="text-center">3 types of features of kikankounomikata</p>
+                <h2 class="text-center h4">期間工のミカタ3つの特徴<br>
+                <span class="h6">3 types of features of kikankounomikata</span>
+                </h2>
             </div>
             <div class="col-sm-6 col-md-4">
+                <img src="https://kikankou.co/wp-content/uploads/2018/06/concept.png" class="img-fluid mx-auto d-block img-thumbnail">
                 <h3 class="text-center h4">コンセプト</h3>
                 <p>期間工として働き方が選べるサイト。直接雇用、人材紹介、派遣の3つのタイプから求人を選べます。</p>
             </div>
             <div class="col-sm-6 col-md-4">
+                <img src="https://kikankou.co/wp-content/uploads/2018/06/list01.png" class="img-fluid mx-auto d-block img-thumbnail">
                 <h3 class="text-center h4">圧倒的な求人数と質</h3>
                 <p>期間工専門の求人サイトです。提供する求人の数と質には絶対的な自信があります。</p>
             </div>
             <div class="col-sm-6 col-md-4">
+                <img src="https://kikankou.co/wp-content/uploads/2018/06/support.png" class="img-fluid mx-auto d-block img-thumbnail">
                 <h3 class="text-center h4">サポート体制</h3>
                 <p>他にはないサポート体制を完備しています。 </p>
                 <p>今まで、期間工として働いたことがない方や、金銭面的に不安がある方も安心して就業できます。</p>
             </div>
             <div class="col-sm-6 col-md-4">
+                <img src="https://kikankou.co/wp-content/uploads/2018/06/resume.png" class="img-fluid mx-auto d-block img-thumbnail">
                 <h3 class="text-center h4">履歴書添削</h3>
                 <p>素晴らしい経歴を持っているのに、自身のアピールポイントがわからない方や、どうやって履歴書でアピールしたら良いかわからない方は弊社の履歴書添削サービスをぜひご利用ください！</p>
             </div>
             <div class="col-sm-6 col-md-4">
+                <img src="https://kikankou.co/wp-content/uploads/2018/06/sns.png" class="img-fluid mx-auto d-block img-thumbnail">
                 <h3 class="text-center h4">SNS</h3>
                 <p>TwitterやLINEなどSNSを使って情報をリアルタイムに配信！</p>
             </div>
             <div class="col-sm-6 col-md-4">
+                <img src="https://kikankou.co/wp-content/uploads/2018/06/fp.png" class="img-fluid mx-auto d-block img-thumbnail">
                 <h3 class="text-center h4">ファイナンシャルアドバイザー</h3>
                 <p>日常的な悩みや懸念材料がある方は弊社のファイナンシャルプランナーにぜひご相談ください。様々な角度から分析を行い最適な改善提案をご提供いたします。</p>
             </div>
@@ -485,15 +496,19 @@
         <!-- /row -->
         <div class="row">
             <div class="col-sm-6 col-md-3">
+                <img src="https://kikankou.co/wp-content/uploads/2018/06/merumaga.png" class="img-fluid mx-auto d-block">
                 <h3 class="text-center h4">メルマガ登録</h3>
             </div>
             <div class="col-sm-6 col-md-3">
+                <img src="https://kikankou.co/wp-content/uploads/2018/06/makerintro.png" class="img-fluid mx-auto d-block">
                 <h3 class="text-center h4">メーカー紹介</h3>
             </div>
             <div class="col-sm-6 col-md-3">
+                <img src="https://kikankou.co/wp-content/uploads/2018/06/ad01.png" class="img-fluid mx-auto d-block">
                 <h3 class="text-center h4">広告掲載</h3>
             </div>
             <div class="col-sm-6 col-md-3">
+                <img src="https://kikankou.co/wp-content/uploads/2018/06/faq.png" class="img-fluid mx-auto d-block">
                 <h3 class="text-center h4">期間工のQ&A</h3>
             </div>
         </div>
