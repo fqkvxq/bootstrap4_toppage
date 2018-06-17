@@ -1,0 +1,27 @@
+/* フォント変更 */
+body {
+    font-family: "Mplus 1p";
+    font-weight: 300;
+}
+
+/*navbarの太さ*/
+.navbar {
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+/* collapseのボタンの枠線を非表示 */
+.navbar-light .navbar-toggler {
+    border:none;
+}
+
+h2 {
+    margin: 20px 0;
+    padding: 20px 0;
+    border-top: 2px solid #000;
+    border-bottom: 2px solid #000;
+}
+
+h3 {
+    margin: 20px 0 !important;
+}
